@@ -1,0 +1,19 @@
+header{
+background-color: rgb(52, 146, 52);
+color: rgb(238, 75, 16);
+text-align: center;
+padding: 20px 0;
+    
+}
+nav {
+    background-color: rgb(52, 146, 52);
+    text-align: center;
+    padding: 10px 0;
+
+}
+nav a {
+    color: beige;
+    text-decoration: none;
+    margin: 0 15px;
+
+}

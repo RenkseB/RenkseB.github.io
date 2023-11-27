@@ -1,0 +1,18 @@
+header{
+background-color: rgb(91, 91, 245);
+color: aquamarine;
+text-align: center;
+padding: 20px 0;
+}
+nav {
+    background-color: rgb(91, 91, 245);
+    text-align: center;
+    padding: 10px 0;
+
+}
+nav a {
+    color: beige;
+    text-decoration: none;
+    margin: 0 15px;
+
+}
